@@ -1,0 +1,1 @@
+<your full canvas code goes here — inserted manually in next cell>
